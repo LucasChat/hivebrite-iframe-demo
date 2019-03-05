@@ -7,7 +7,8 @@
 <style>
 .resp-container {
   position: relative;
-  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  overflow: auto;
   padding-top: 75.25%;
 }
 .resp-iframe {
