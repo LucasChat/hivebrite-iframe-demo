@@ -22,7 +22,7 @@
 @media (max-width: 44.9375em) {
   .resp-container {
     position: relative;
-    overflow: hidden;
+    overflow: scroll;
     padding-top: 155.25%;
   }
 }
